@@ -76,7 +76,7 @@ var json_data = {"_1":{
   // "_8":{"member":"Hさん","WinOrLose":0},
   // "_9":{"member":"Iさん","WinOrLose":0},
   // "_10":{"member":"Jさん","WinOrLose":0}
-},
+}
 // "_7":{
 //   "member":"Gさん",
 //   "_1":{"member":"Aさん","WinOrLose":0},

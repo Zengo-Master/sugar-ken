@@ -6,9 +6,9 @@ sugar-ken
 
 # 本番環境
 ## Heroku
-https://sugarken.herokuapp.com/
-<p>ユーザー名：zengoma</p>
-<p>パスワード：114514</p>
+https://league-table-app.herokuapp.com/
+<p>ユーザー名：sugar</p>
+<p>パスワード：7</p>
 
 ## AWS
 
